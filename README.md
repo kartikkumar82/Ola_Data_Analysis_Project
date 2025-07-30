@@ -39,8 +39,7 @@ To perform data-driven analysis on Ola's ride dataset in order to:
 
 > Screenshots of the Power BI dashboard can be added here.  
 > Example:
-> ![Dashboard Screenshot](<img width="965" height="538" alt="Screenshot 2025-07-30 123116" src="https://github.com/user-attachments/assets/6a383b11-e5d7-43d0-bfba-fb99a9dc2b46" />
-)
+<img src="Screenshot 2025-07-30 123116.png" />
 
 ---
 
@@ -57,6 +56,9 @@ To perform data-driven analysis on Ola's ride dataset in order to:
 ├── images/
 │   └── dashboard_screenshot.png
 └── README.md
+
+ ```
+
 ✅ Features
 Cleaned and structured raw ride data using SQL queries
 

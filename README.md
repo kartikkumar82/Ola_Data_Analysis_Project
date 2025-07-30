@@ -76,7 +76,7 @@ Revenue is highest in Tier-1 cities like Bangalore and Mumbai
 
 High cancellation rates occur during late nights
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 Clone the repository
 
 bash

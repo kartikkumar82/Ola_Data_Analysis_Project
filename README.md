@@ -102,7 +102,7 @@ Improve customer experience
 Boost operational performance
 
 <h3>Author</h3>
-Kartik Kumar
+<h4>Kartik Kumar</h4>
 📧 [kartikkumar1800089@gmail.com]
 🔗 LinkedIn: www.linkedin.com/in/kartikkumar82
 

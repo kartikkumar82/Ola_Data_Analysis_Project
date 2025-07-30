@@ -83,7 +83,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ola-data-analysis.git
+git clone https://github.com/kartikkumar82/ola-data-analysis.git
 Load the ola_raw_data.csv into your SQL environment
 
 Run the SQL queries from ola_analysis_queries.sql
